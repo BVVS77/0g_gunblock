@@ -1,7 +1,3 @@
-Here’s a polished `README.md` for your **0Gravity - Weapon Lock System (Free)**, ready for GitHub – and includes a link to your full GitBook documentation:
-
----
-
 ```md
 # 🔒 0Gravity - Weapon Lock System (Free Version)
 
@@ -114,7 +110,3 @@ MIT License
 Join the community:  
 📬 [Discord](https://discord.gg/YbuNXpwkWY)
 ```
-
----
-
-Let me know if you want a `preview.png` or banner-style GitHub header image for this too!
